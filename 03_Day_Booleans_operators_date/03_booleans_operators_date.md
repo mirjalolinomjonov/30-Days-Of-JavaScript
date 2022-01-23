@@ -9,7 +9,7 @@
 
   <sub>Author:
   <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> January, 2020</small>
+  <small> January, 2022</small>
   </sub>
 </div>
 
@@ -392,7 +392,7 @@ Once we create time object. The time object will provide information about time.
 
 ```js
 const now = new Date()
-console.log(now) // Sat Jan 04 2020 00:56:41 GMT+0200 (Eastern European Standard Time)
+console.log(now) // Sat Jan 04 2022 00:56:41 GMT+0200 (Eastern European Standard Time)
 ```
 
 We have created a time object and we can access any date time information from the object using the get methods we have mentioned on the table.
@@ -403,7 +403,7 @@ Let's extract or get the full year from a time object.
 
 ```js
 const now = new Date()
-console.log(now.getFullYear()) // 2020
+console.log(now.getFullYear()) // 2022
 ```
 
 ### Getting month
@@ -470,14 +470,14 @@ This method give time in milliseconds starting from January 1, 1970. It is also 
 
 ```js
 const now = new Date() //
-console.log(now.getTime()) // 1578092201341, this is the number of seconds passed from January 1, 1970 to January 4, 2020 00:56:41
+console.log(now.getTime()) // 1578092201341, this is the number of seconds passed from January 1, 1970 to January 4, 2022 00:56:41
 ```
 
 1. Using _Date.now()_
 
 ```js
 const allSeconds = Date.now() //
-console.log(allSeconds) // 1578092201341, this is the number of seconds passed from January 1, 1970 to January 4, 2020 00:56:41
+console.log(allSeconds) // 1578092201341, this is the number of seconds passed from January 1, 1970 to January 4, 2022 00:56:41
 
 const timeInSeconds = new Date().getTime()
 console.log(allSeconds == timeInSeconds) // true
@@ -494,7 +494,7 @@ const date = now.getDate() // return date (1 - 31)
 const hours = now.getHours() // return number (0 - 23)
 const minutes = now.getMinutes() // return number (0 -59)
 
-console.log(`${date}/${month}/${year} ${hours}:${minutes}`) // 4/1/2020 0:56
+console.log(`${date}/${month}/${year} ${hours}:${minutes}`) // 4/1/2022 0:56
 ```
 
 🌕  You have boundless energy. You have just completed day 3 challenges and you are three steps a head in to your way to greatness. Now do some exercises for your brain and for your muscle.

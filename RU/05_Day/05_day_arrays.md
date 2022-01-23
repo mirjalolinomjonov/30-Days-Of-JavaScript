@@ -9,7 +9,7 @@
 
 <sub>Автор:
 <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> Январь, 2020</small>
+<small> Январь, 2022</small>
 </sub>
 
 </div>

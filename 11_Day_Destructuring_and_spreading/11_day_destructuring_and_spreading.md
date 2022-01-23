@@ -9,7 +9,7 @@
 
   <sub>Author:
   <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> January, 2020</small>
+  <small> January, 2022</small>
   </sub>
 </div>
 
@@ -345,17 +345,17 @@ Asabeneh Yetayeh lives in Finland. He is  200 years old. He is an Instructor and
 const todoList = [
 {
   task:'Prepare JS Test',
-  time:'4/1/2020 8:30',
+  time:'4/1/2022 8:30',
   completed:true
 },
 {
   task:'Give JS Test',
-  time:'4/1/2020 10:00',
+  time:'4/1/2022 10:00',
   completed:false
 },
 {
   task:'Assess Test Result',
-  time:'4/1/2020 1:00',
+  time:'4/1/2022 1:00',
   completed:false
 }
 ]
@@ -366,9 +366,9 @@ for (const {task, time, completed} of todoList){
 ```
 
 ```sh
-Prepare JS Test 4/1/2020 8:30 true
-Give JS Test 4/1/2020 10:00 false
-Assess Test Result 4/1/2020 1:00 false
+Prepare JS Test 4/1/2022 8:30 true
+Give JS Test 4/1/2022 10:00 false
+Assess Test Result 4/1/2022 1:00 false
 ```
 
 ### Spread or Rest Operator

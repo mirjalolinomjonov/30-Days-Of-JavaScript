@@ -9,7 +9,7 @@
 
   <sub>Author:
   <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> January, 2020</small>
+  <small> January, 2022</small>
   </sub>
 </div>
 
@@ -507,7 +507,7 @@ console.log(copyPerson.hasOwnProperty('score'))
           username: 'Alex',
           email: 'alex@alex.com',
           password: '123123',
-          createdAt:'08/01/2020 9:00 AM',
+          createdAt:'08/01/2022 9:00 AM',
           isLoggedIn: false
       },
       {
@@ -515,7 +515,7 @@ console.log(copyPerson.hasOwnProperty('score'))
           username: 'Asab',
           email: 'asab@asab.com',
           password: '123456',
-          createdAt:'08/01/2020 9:30 AM',
+          createdAt:'08/01/2022 9:30 AM',
           isLoggedIn: true
       },
       {
@@ -523,7 +523,7 @@ console.log(copyPerson.hasOwnProperty('score'))
           username: 'Brook',
           email: 'brook@brook.com',
           password: '123111',
-          createdAt:'08/01/2020 9:45 AM',
+          createdAt:'08/01/2022 9:45 AM',
           isLoggedIn: true
       },
       {
@@ -531,7 +531,7 @@ console.log(copyPerson.hasOwnProperty('score'))
           username: 'Martha',
           email: 'martha@martha.com',
           password: '123222',
-          createdAt:'08/01/2020 9:50 AM',
+          createdAt:'08/01/2022 9:50 AM',
           isLoggedIn: false
       },
       {
@@ -539,7 +539,7 @@ console.log(copyPerson.hasOwnProperty('score'))
           username: 'Thomas',
           email: 'thomas@thomas.com',
           password: '123333',
-          createdAt:'08/01/2020 10:00 AM',
+          createdAt:'08/01/2022 10:00 AM',
           isLoggedIn: false
       }
       ];

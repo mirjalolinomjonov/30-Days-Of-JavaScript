@@ -2,7 +2,7 @@
 
 | # Kun |                                                                                                        Mavzular                                                                                                         |
 |-------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 01    |                                                                                                  [Kirish](./readMe.md)                                                                                                  |
+| 01    |                                                                                                  [Kirish](./README.md)                                                                                                  |
 | 02    |                                                                        [Data types (Ma'lumot turlari)](./02_Day_Data_types/02_day_data_types.md)                                                                        |
 | 03    |                                                [Booleans(Mantiqiy), Operators(Operatorlar), Date(Sana)](./03_Day_Booleans_operators_date/03_booleans_operators_date.md)                                                 |
 | 04    |                                                                         [Conditionals (Shartlar)](./04_Day_Conditionals/04_day_conditionals.md)                                                                         |
@@ -51,7 +51,7 @@
 
 <sub>Author:
 <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
+<small> January, 2022</small>
 </sub>
 
   <div>
@@ -209,7 +209,7 @@ console.log('Hello, World!')
 
 ```js
 console.log('Hello', 'World', '!')
-console.log('HAPPY', 'NEW', 'YEAR', 2020)
+console.log('HAPPY', 'NEW', 'YEAR', 2022)
 console.log('Welcome', 'to', 30, 'Days', 'Of', 'JavaScript')
 ```
 
@@ -559,8 +559,8 @@ num1
 num_1
 _num_1
 $num1
-year2020
-year_2020
+year2022
+year_2022
 ```
 
 Ro'yxatdagi birinchi va ikkinchi o'zgaruvchilar JavaScript-da e'lon qilishning camelCase konventsiyasiga amal qiladi. Ushbu materialda biz camelCase o'zgaruvchilaridan foydalanamiz.

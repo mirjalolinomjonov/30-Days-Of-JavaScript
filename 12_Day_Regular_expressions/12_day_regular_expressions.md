@@ -9,7 +9,7 @@
 
   <sub>Author:
   <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> January, 2020</small>
+  <small> January, 2022</small>
   </sub>
 </div>
 
@@ -301,7 +301,7 @@ Using the square bracket and or operator , we manage to extract Apple, apple, Ba
 
 ```js
 const pattern = /\d/g  // d is a special character which means digits
-const txt = 'This regular expression example was made in January 12,  2020.'
+const txt = 'This regular expression example was made in January 12,  2022.'
 const matches = txt. match(pattern)
 
 console.log(matches)  // ["1", "2", "2", "0", "2", "0"], this is not what we want
@@ -309,19 +309,19 @@ console.log(matches)  // ["1", "2", "2", "0", "2", "0"], this is not what we wan
 
 ```js
 const pattern = /\d+/g  // d is a special character which means digits
-const txt = 'This regular expression example was made in January 12,  2020.'
+const txt = 'This regular expression example was made in January 12,  2022.'
 const matches = txt. match(pattern)
 
-console.log(matches)  // ["12", "2020"], this is not what we want
+console.log(matches)  // ["12", "2022"], this is not what we want
 ```
 
 ### One or more times(+)
 
 ```js
 const pattern = /\d+/g  // d is a special character which means digits
-const txt = 'This regular expression example was made in January 12,  2020.'
+const txt = 'This regular expression example was made in January 12,  2022.'
 const matches = txt. match(pattern)
-console.log(matches)  // ["12", "2020"], this is not what we want
+console.log(matches)  // ["12", "2022"], this is not what we want
 ```
 
 ### Period(.)

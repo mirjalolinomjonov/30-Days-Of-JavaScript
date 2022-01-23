@@ -9,7 +9,7 @@
 
 <sub>Автор:
 <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> Январь, 2020</small>
+<small> Январь, 2022</small>
 </sub>
 
 </div>
@@ -403,7 +403,7 @@ These are not all the window methods we will have a separate section to go deep 
 
 ```js
 const now = new Date();
-console.log(now); // Sat Jan 04 2020 00:56:41 GMT+0200 (Eastern European Standard Time)
+console.log(now); // Sat Jan 04 2022 00:56:41 GMT+0200 (Eastern European Standard Time)
 ```
 
 Мы создали объект времени, и мы можем получить доступ к любой информации о дате и времени из объекта, используя методы get, которые мы упомянули в таблице.
@@ -414,7 +414,7 @@ console.log(now); // Sat Jan 04 2020 00:56:41 GMT+0200 (Eastern European Standar
 
 ```js
 const now = new Date();
-console.log(now.getFullYear()); // 2020
+console.log(now.getFullYear()); // 2022
 ```
 
 ### Получение месяца
@@ -480,14 +480,14 @@ console.log(now.getSeconds()); // 41, потому, что время 00:56:41
 
    ```js
    const now = new Date(); //
-   console.log(now.getTime()); // 1578092201341, это количество секунд, прошедших с January 1, 1970 to January 4, 2020 00:56:41
+   console.log(now.getTime()); // 1578092201341, это количество секунд, прошедших с January 1, 1970 to January 4, 2022 00:56:41
    ```
 
 2. Используя _Date.now()_
 
 ```js
 const allSeconds = Date.now(); //
-console.log(allSeconds); // 1578092201341, это количество секунд, прошедших с January 1, 1970 to January 4, 2020 00:56:41
+console.log(allSeconds); // 1578092201341, это количество секунд, прошедших с January 1, 1970 to January 4, 2022 00:56:41
 
 const timeInSeconds = new Date().getTime();
 console.log(allSeconds == timeInSeconds); // true
@@ -505,7 +505,7 @@ const date = now.getDate(); // вернет date (1 - 31)
 const hours = now.getHours(); // вернет number (0 - 23)
 const minutes = now.getMinutes(); // вернет number (0 -59)
 
-console.log(`${date}/${month}/${year} ${hours}:${minutes}`); // 4/1/2020 0:56
+console.log(`${date}/${month}/${year} ${hours}:${minutes}`); // 4/1/2022 0:56
 ```
 
 🌕 У вас есть безграничная энергия! Вы только что выполнили 3-й день испытаний, и вы на три шага на пути к успеху. Теперь сделайте несколько упражнений для вашего мозга и ваших мышц.

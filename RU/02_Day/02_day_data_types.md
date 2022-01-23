@@ -9,7 +9,7 @@
 
 <sub>Автор:
 <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> Январь, 2020</small>
+<small> Январь, 2022</small>
 </sub>
 
 </div>
@@ -343,7 +343,7 @@ Node.js, Python, Data Analysis and D3.js for anyone who is interested to learn. 
 In the end of 2019, I was thinking to expand my teaching and to reach \
 to global audience and I started a Python challenge from November 20 - December 19.\
 It was one of the most rewarding and inspiring experience.\
-Now, we are in 2020. I am enjoying preparing the 30DaysOfJavaScript challenge and \
+Now, we are in 2022. I am enjoying preparing the 30DaysOfJavaScript challenge and \
 I hope you are enjoying too.";
 console.log(paragraph);
 ```
@@ -370,7 +370,7 @@ console.log("Day 4\t3\t5");
 console.log("This is a back slash  symbol (\\)"); // To write a back slash
 console.log('In every programming language it starts with "Hello, World!"');
 console.log("In every programming language it starts with 'Hello, World!'");
-console.log("The saying 'Seeing is Believing' is't correct in 2020");
+console.log("The saying 'Seeing is Believing' is't correct in 2022");
 ```
 
 #### Шаблонные литералы (Шаблонные строки)
@@ -759,7 +759,7 @@ console.log(`${a} is greater than ${b}: ${a > b}`);
 
     ```js
     let txt =
-      "In 2019, I run 30 Days of Python. Now, in 2020 I super exited to start this challenge";
+      "In 2019, I run 30 Days of Python. Now, in 2022 I super exited to start this challenge";
     let regEx = /\d+/;
 
     // d с перенос-символом означает, что d не является нормальным d, вместо этого действует цифра
@@ -767,7 +767,7 @@ console.log(`${a} is greater than ${b}: ${a > b}`);
     // если после этого есть g, значит глобальный, ищите везде.
 
     console.log(txt.match(regEx)); // ["2", "0", "1", "9", "3", "0", "2", "0", "2", "0"]
-    console.log(txt.match(/\d+/g)); // ["2019", "30", "2020"]
+    console.log(txt.match(/\d+/g)); // ["2019", "30", "2022"]
     ```
 
 20. `repeat()`: он принимает числовой аргумент и возвращает повторную версию строки.

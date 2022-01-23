@@ -51,7 +51,7 @@
 
 <sub>Author:
 <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
+<small> January, 2022</small>
 </sub>
 
   <div>
@@ -211,7 +211,7 @@ The **console.log()** function can take multiple parameters separated by commas.
 
 ```js
 console.log('Hello', 'World', '!')
-console.log('HAPPY', 'NEW', 'YEAR', 2020)
+console.log('HAPPY', 'NEW', 'YEAR', 2022)
 console.log('Welcome', 'to', 30, 'Days', 'Of', 'JavaScript')
 ```
 
@@ -569,8 +569,8 @@ num1
 num_1
 _num_1
 $num1
-year2020
-year_2020
+year2022
+year_2022
 ```
 
 The first and second variables on the list follows the camelCase convention of declaring in JavaScript. In this material, we will use camelCase variables.

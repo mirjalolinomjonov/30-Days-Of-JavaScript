@@ -10,7 +10,7 @@
 
   <sub>Autor:
   <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> Enero de 2020</small>
+  <small> Enero de 2022</small>
   </sub>
 
   <div>
@@ -154,7 +154,7 @@ El console.log(param1, param2, param3), puede tomar múltiples argumentos.
 ![console log multiple arguments](./images/console_log_multipl_arguments.png)
 
     console.log('Hola', 'Mundo', '!')
-    console.log('FELIZ', 'AÑO', 'NUEVO', 2020)
+    console.log('FELIZ', 'AÑO', 'NUEVO', 2022)
     console.log('Bienvenido', 'a', 30, 'Días', 'de', 'JavaScript')
 
 Como pueden ver, en el código del fragmento de arriba, console.log() puede tomar múltiples argumentos.
@@ -464,8 +464,8 @@ Variables válidas en JavaScript:
     num_1
      _num_1
     $num1
-    año2020
-    año_2020
+    año2022
+    año_2022
 
 camelCase es convencional en JavaScript. En este material, usaremos variables de CamelCase.
 

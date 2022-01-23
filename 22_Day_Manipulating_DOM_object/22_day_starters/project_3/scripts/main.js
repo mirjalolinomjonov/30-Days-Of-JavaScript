@@ -1,1 +1,1 @@
-console.log(asabenehChallenges2020)
+console.log(asabenehChallenges2022)

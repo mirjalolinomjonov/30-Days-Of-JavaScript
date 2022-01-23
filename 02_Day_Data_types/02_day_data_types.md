@@ -9,7 +9,7 @@
 
   <sub>Author:
   <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> January, 2020</small>
+  <small> January, 2022</small>
   </sub>
 </div>
 </div>
@@ -272,8 +272,8 @@ let country = 'Finland'
 let city = 'Helsinki'
 let language = 'JavaScript'
 let job = 'teacher'
-let quote = "The saying,'Seeing is Believing' is not correct in 2020."
-let quotWithBackTick = `The saying,'Seeing is Believing' is not correct in 2020.`
+let quote = "The saying,'Seeing is Believing' is not correct in 2022."
+let quotWithBackTick = `The saying,'Seeing is Believing' is not correct in 2022.`
 ```
 
 ### String Concatenation
@@ -330,7 +330,7 @@ Node.js, Python, Data Analysis and D3.js for anyone who is interested to learn. 
 In the end of 2019, I was thinking to expand my teaching and to reach \
 to global audience and I started a Python challenge from November 20 - December 19.\
 It was one of the most rewarding and inspiring experience.\
-Now, we are in 2020. I am enjoying preparing the 30DaysOfJavaScript challenge and \
+Now, we are in 2022. I am enjoying preparing the 30DaysOfJavaScript challenge and \
 I hope you are enjoying too."
 
 console.log(paragraph)
@@ -356,7 +356,7 @@ console.log('Day 4\t3\t5')
 console.log('This is a backslash  symbol (\\)') // To write a backslash
 console.log('In every programming language it starts with \"Hello, World!\"')
 console.log("In every programming language it starts with \'Hello, World!\'")
-console.log('The saying \'Seeing is Believing\' isn\'t correct in 2020')
+console.log('The saying \'Seeing is Believing\' isn\'t correct in 2022')
 ```
 
 Output in console:
@@ -372,7 +372,7 @@ Day 4 3 5
 This is a backslash  symbol (\)
 In every programming language it starts with "Hello, World!"
 In every programming language it starts with 'Hello, World!'
-The saying 'Seeing is Believing' isn't correct in 2020
+The saying 'Seeing is Believing' isn't correct in 2022
 ```
 
 #### Template Literals (Template Strings)
@@ -762,7 +762,7 @@ console.log(string.match(pattern))   // ["love", "love", "love"]
 Let us extract numbers from text using a regular expression. This is not the regular expression section, do not panic! We will cover regular expressions later on.
 
 ```js
-let txt = 'In 2019, I ran 30 Days of Python. Now, in 2020 I am super exited to start this challenge'
+let txt = 'In 2019, I ran 30 Days of Python. Now, in 2022 I am super exited to start this challenge'
 let regEx = /\d+/
 
 // d with escape character means d not a normal d instead acts a digit
@@ -770,7 +770,7 @@ let regEx = /\d+/
 // if there is g after that it means global, search everywhere.
 
 console.log(txt.match(regEx))  // ["2", "0", "1", "9", "3", "0", "2", "0", "2", "0"]
-console.log(txt.match(/\d+/g)) // ["2019", "30", "2020"]
+console.log(txt.match(/\d+/g)) // ["2019", "30", "2022"]
 ```
 
 20. *repeat()*: it takes a number as argument and it returns the repeated version of the string.

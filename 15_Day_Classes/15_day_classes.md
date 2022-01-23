@@ -9,7 +9,7 @@
 
 <sub>Author:
 <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
+<small> January, 2022</small>
 </sub>
 
 </div>
@@ -544,7 +544,7 @@ console.log(Person.showDateTime())
 
 ```sh
 Node
-15.1.2020 23:56
+15.1.2022 23:56
 ```
 
 The static methods are methods which can be used as utility functions.

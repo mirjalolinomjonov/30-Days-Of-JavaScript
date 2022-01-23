@@ -9,7 +9,7 @@
 
   <sub>Author:
   <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> January, 2020</small>
+  <small> January, 2022</small>
   </sub>
 </div>
 
@@ -558,11 +558,11 @@ Now it is time to express your thoughts about the Author and 30DaysOfJavaScript.
     ```
 
 1. Declare a function name _printArray_. It takes array as a parameter and it prints out each value of the array.
-1. Write a function name _showDateTime_ which shows time in this format: 08/01/2020 04:08 using the Date object.
+1. Write a function name _showDateTime_ which shows time in this format: 08/01/2022 04:08 using the Date object.
 
     ```sh
     showDateTime()
-    08/01/2020 04:08
+    08/01/2022 04:08
     ```
 
 1. Declare a function name _swapValues_. This function swaps value of x to y.
