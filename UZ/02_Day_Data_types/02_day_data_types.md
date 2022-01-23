@@ -908,21 +908,21 @@ console.log(numInt) // 9
 8. __includes()__ usuli yordamida satrda __Script__ so‘zi borligini tekshiring
 9. __split()__ usuli yordamida satrni massivga ajrating
 10. Split the string 30 Days Of JavaScript at the space using __split()__ method
-11. 'Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon' __split__ the string at the comma and change it to an array.
-12. Change 30 Days Of JavaScript to 30 Days Of Python using __replace()__ method.
-13. What is character at index 15 in '30 Days Of JavaScript' string? Use __charAt()__ method.
-14. What is the character code of J in '30 Days Of JavaScript' string using __charCodeAt()__
-15. Use __indexOf__ to determine the position of the first occurrence of __a__ in 30 Days Of JavaScript
-16. Use __lastIndexOf__ to determine the position of the last occurrence of __a__ in 30 Days Of JavaScript.
-17. Use __indexOf__ to find the position of the first occurrence of the word __because__ in the following sentence:__'You cannot end a sentence with because because because is a conjunction'__
-18. Use __lastIndexOf__ to find the position of the last occurrence of the word __because__ in the following sentence:__'You cannot end a sentence with because because because is a conjunction'__
-19. Use __search__ to find the position of the first occurrence of the word __because__ in the following sentence:__'You cannot end a sentence with because because because is a conjunction'__
-20. Use __trim()__ to remove any trailing whitespace at the beginning and the end of a string.E.g ' 30 Days Of JavaScript '.
-21. Use __startsWith()__ method with the string *30 Days Of JavaScript* and make the result true
-22. Use __endsWith()__ method with the string *30 Days Of JavaScript* and make the result true
-23. Use __match()__ method to find all the __a__’s in 30 Days Of JavaScript
-24. Use __concat()__ and merge '30 Days of' and 'JavaScript' to a single string, '30 Days Of JavaScript'
-25. Use __repeat()__ method to print 30 Days Of JavaScript 2 times
+11. 'Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon' __split__ satrni vergul orqali massivga ajrating.
+12. _30 Days Of JavaScript_ ni _30 Days Of Python_ ga  __replace()__ methodi  yordamida o'zgartiring.
+13. 15-index dagi belgi qanday '30 Days Of JavaScript'? __charAt()__ dan foydalaning.
+14. '30 Days Of JavaScript' dagi J harfi kodi qanday? __charCodeAt()__ dan foydalaning.
+15. __indexOf__ dan foydalanib 1-uchragan __a__ belgisining indexini toping? _30 Days Of JavaScript_
+16. __lastIndexOf__ dan foydalanib oxirgi uchragan __a__ belgisining indexini toping? _30 Days Of JavaScript_.
+17. Quyidagi gapda __because__ so‘zining birinchi kelgan o‘rnini topish uchun __indexOf__  dan foydalaning :__'You cannot end a sentence with because because because is a conjunction'__
+18. Quyidagi gapda __because__ so‘zining oxirgi kelgan o‘rnini topish uchun __lastIndexOf__ dan foydalaning:__'You cannot end a sentence with because because because is a conjunction'__
+19. Quyidagi gapda __because__ so‘zining birinchi kelgan o‘rnini topish uchun  __search__ dan foydalaning:__'You cannot end a sentence with because because because is a conjunction'__
+20. Qator boshida va oxiridagi har qanday boʻshliqni olib tashlash uchun __trim()__ dan foydalaning. Masalan, “JavaScript 30 kuni”.
+21. 30 Days Of JavaScript qatori bilan __startsWith()__ usulidan foydalaning va natijani haqiqatga aylantiring
+22. 30 Days Of JavaScript qatori bilan __endsWith()__  usulidan foydalaning va natijani haqiqatga aylantiring
+23. JavaScript-ning 30 kunidagi barcha __a__ larni topish uchun __match()__ usulidan foydalaning
+24. __concat()__ dan foydalaning va "30 Days of" va "JavaScript" ni bitta "30 Days Of JavaScript" qatoriga birlashtiring.
+25. 30 kunlik JavaScript-ni 2 marta chop etish uchun __repeat()__ usulidan foydalaning
 
 ### Mashq: 2-daraja
 
@@ -941,12 +941,11 @@ console.log(numInt) // 9
 3. '10' turi 10 ga to'liq teng yoki yo'qligini tekshiring. Agar bo'lmasa, uni aynan teng qiling.
 4. parseFloat('9.8') 10 ga teng yoki yo'qligini tekshiring, agar bo'lmasa, uni 10 ga tenglashtiring.
 5. Piton va jargonda "on" mavjudligini tekshiring
-6. _I hope this course is not full of jargon_. Check if _jargon_ is in the sentence.
-7. _Umid qilamanki, bu kurs jargonga to'la emas_. Jumlada _jargon_ borligini tekshiring.
-8. 0 dan 100 gacha bo'lgan tasodifiy sonni yarating.
-9. 50 dan 255 gacha bo'lgan tasodifiy sonni yarating.
-10. Tasodifiy raqam yordamida "JavaScript" qator belgilariga kiring.
-11. Quyidagi naqshni chop etish uchun console.log() va qochish belgilaridan foydalaning.
+6. _I hope this course is not full of jargon_. Jumlada _jargon_ borligini tekshiring.
+7. 0 dan 100 gacha bo'lgan tasodifiy sonni yarating.
+8. 50 dan 255 gacha bo'lgan tasodifiy sonni yarating.
+9. Tasodifiy raqam yordamida "JavaScript" qator belgilariga kiring.
+10. Quyidagi naqshni chop etish uchun console.log() va qochish belgilaridan foydalaning.
 
     ```js
     1 1 1 1 1
@@ -956,7 +955,7 @@ console.log(numInt) // 9
     5 1 5 25 125
     ```
 
-12.  Jumlani qismlarga ajratish uchun **substr** dan foydalaning, **because because because** quyidagi jumladan: **_'You cannot end a sentence with because because because is a conjunction'_**
+11. Jumlani qismlarga ajratish uchun **substr** dan foydalaning, **because because because** quyidagi jumladan: **_'You cannot end a sentence with because because because is a conjunction'_**
 
 ### Mashq: 3-daraja
 
