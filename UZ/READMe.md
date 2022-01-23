@@ -59,7 +59,7 @@
 🇬🇧 [English](./readMe.md)
 🇪🇸 [Spanish](./Spanish/readme.md)
 🇷🇺 [Russian](./RU/README.md)
-uz [Uzbek](./UZ/README.md)
+uz [Uzbek](./README.md)
 
   </div>
 
