@@ -959,7 +959,7 @@ console.log(numInt) // 9
 
 ### Mashq: 3-daraja
 
-1. 'Love is the best thing in this world. Some found their love and some are still looking for their love.' Ushbu jumladagi __love__ so'zlari sonini hisoblang.
+1. _'Love is the best thing in this world. Some found their love and some are still looking for their love.'_ Ushbu jumladagi __love__ so'zlari sonini hisoblang.
 2. Hammasi sonini hisoblash uchun __match()__ dan foydalaning, __because__ quyidagi jumlada:__'You cannot end a sentence with because because because is a conjunction'__
 3. Quyidagi matnni tozalang va eng tez-tez uchraydigan so'zni toping (maslahat, almashtirish va oddiy iboralardan foydalaning).
 
