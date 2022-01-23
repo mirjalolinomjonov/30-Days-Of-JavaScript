@@ -59,10 +59,10 @@
 🇬🇧 [English](./readMe.md)
 🇪🇸 [Spanish](./Spanish/readme.md)
 🇷🇺 [Russian](./RU/README.md)
+uz [Uzbek](./UZ/README.md)
 
   </div>
 
-</div>
 </div>
 
 [Day 2 >>](./02_Day_Data_types/02_day_data_types.md)
