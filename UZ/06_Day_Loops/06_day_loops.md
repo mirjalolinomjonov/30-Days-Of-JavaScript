@@ -34,7 +34,7 @@
 
 ## Tsikllar
 
-Hayotda qiladigan ko'p harakatlarimiz takrorlash bilan to'la. Tasavvur qiling-a, agar sizdan console.log() yordamida 0 dan 100 gacha chop etishingizni so'rasam. Ushbu oddiy vazifani bajarish uchun sizga 2 dan 5 minutgacha vaqt ketishi mumkin, bunday zerikarli va takroriy vazifani halqa yordamida bajarish mumkin. Agar siz videolarni tomosha qilishni afzal ko'rsangiz, [video darsliklarni ko'rishingiz mumkin](https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw)
+Hayotda qiladigan ko'p harakatlarimiz takrorlash bilan to'la. Tasavvur qiling-a, agar sizdan console.log() yordamida 0 dan 100 gacha chop etishingizni so'rasam. Ushbu oddiy vazifani bajarish uchun sizga 2 dan 5 minutgacha vaqt ketishi mumkin, bunday zerikarli va takroriy vazifani tsikl yordamida bajarish mumkin. Agar siz videolarni tomosha qilishni afzal ko'rsangiz, [video darsliklarni ko'rishingiz mumkin](https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw)
 
 Dasturlash tillarida takrorlanuvchi topshiriqlarni bajarish uchun biz har xil turdagi sikllardan foydalanamiz. Quyidagi misollar JavaScript va boshqa dasturlash tillarida tez-tez ishlatiladigan sikllardir.
 
