@@ -87,7 +87,7 @@ Boshlang'ich qiymatlari bo'lgan massiv. Massiv uzunligini topish uchun biz lengt
 const numbers = [0, 3.14, 9.81, 37, 98.6, 100] // raqamlar massivi
 const fruits = ['banana', 'orange', 'mango', 'lemon'] // satrlar massivi, mevalar
 const vegetables = ['Tomato', 'Potato', 'Cabbage', 'Onion', 'Carrot'] // satrlar massivi, sabzavotlar 
-const animalProducts = ['milk', 'meat', 'butter', 'yoghurt'] // qatorlar massivi, mahsulotlar
+const animalProducts = ['milk', 'meat', 'butter', 'yoghurt'] // satrlar massivi, mahsulotlar
 const webTechs = ['HTML', 'CSS', 'JS', 'React', 'Redux', 'Node', 'MongDB'] // web-texnologiyalar massivi
 const countries = ['Finland', 'Denmark', 'Sweden', 'Norway', 'Iceland'] // satrlar massivi, mamlakatlar
 
@@ -768,9 +768,11 @@ const webTechs = [
     - O'rtacha yoshni toping (bir o'rta element yoki ikkita o'rta element ikkiga bo'lingan)
     - O'rtacha yoshni toping (barcha elementlar elementlar soniga bo'lingan)
     - Yoshlar oralig'ini toping (maksimal minus min)
-    - (min - o'rtacha) va (max - o'rtacha) qiymatini solishtiring, abs() usulidan foydalaning 1. Mamlakatlar qatoridan birinchi o'nta mamlakatni kesib oling
-2. [Mamlakatlar massivida](https://github.com/Asabeneh/30DaysOfJavaScript/tree/master/data/countries.js) o'rta davlat(lar)ni toping 
-3. Mamlakatlar massivini, agar u juft bo'lsa, ikkita teng massivga ajrating. Agar mamlakatlar qatori juft bo'lmasa, birinchi yarmi uchun yana bir mamlakat.
+    - (min - o'rtacha) va (max - o'rtacha) qiymatini solishtiring, abs() usulidan foydalaning
+
+2. [Mamlakatlar massivida](https://github.com/Asabeneh/30DaysOfJavaScript/tree/master/data/countries.js) birinchi o'nta mamlakatni kesib oling
+3. [Mamlakatlar massivida](https://github.com/Asabeneh/30DaysOfJavaScript/tree/master/data/countries.js) o'rta davlat(lar)ni toping 
+4. Mamlakatlar massivini, agar u juft bo'lsa, ikkita teng massivga ajrating. Agar mamlakatlar qatori juft bo'lmasa, birinchi yarmi uchun yana bir mamlakat.
   
 🎉 TABRIKLAYMAN ! 🎉
 
