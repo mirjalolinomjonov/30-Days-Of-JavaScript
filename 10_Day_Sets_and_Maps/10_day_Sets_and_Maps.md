@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of JavaScript: Sets and Maps</h1>
+  <h1> 30 kunlik JavaScript: Setlar va Maplar</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -14,40 +14,40 @@
 
 </div>
 
-[<< Day 9](../09_Day_Higher_order_functions/09_day_higher_order_functions.md) | [Day 11>>](../11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md)
+[<< 9-kun](../09_Day_Higher_order_functions/09_day_higher_order_functions.md) | [11-kun>>](../11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md)
 
-![Day 10](../images/banners/day_1_10.png)
+![10-Kun](../images/banners/day_1_10.png)
 
-- [Day 10](#day-10)
+- [10-Kun](#10-kun)
   - [Set](#set)
-    - [Creating an empty set](#creating-an-empty-set)
-    - [Creating set from array](#creating-set-from-array)
-    - [Adding an element to a set](#adding-an-element-to-a-set)
-    - [Deleting an element a set](#deleting-an-element-a-set)
-    - [Checking an element in the set](#checking-an-element-in-the-set)
-    - [Clearing the set](#clearing-the-set)
-    - [Union of sets](#union-of-sets)
-    - [Intersection of sets](#intersection-of-sets)
-    - [Difference of sets](#difference-of-sets)
+    - [Bo'sh Set yaratish](#bosh-set-yaratish)
+    - [Massivdan Set yaratish](#massivdan-set-yaratish)
+    - [Setga element qo'shish](#setga-element-qoshish)
+    - [Set elementini o'chirish](#set-elementini-ochirish)
+    - [Setdagi elementni tekshirish](#setdagi-elementni-tekshirish)
+    - [Setni tozalash](#setni-tozalash)
+    - [Setlarni birlashtirish](#setlarni-birlashtirish)
+    - [Setlarning kesisishi](#setlarning-kesisishi)
+    - [Setlarning farqi](#setlarning-farqi)
   - [Map](#map)
-    - [Creating an empty Map](#creating-an-empty-map)
-    - [Creating an Map from array](#creating-an-map-from-array)
-    - [Adding values to the Map](#adding-values-to-the-map)
-    - [Getting a value from Map](#getting-a-value-from-map)
-    - [Checking key in Map](#checking-key-in-map)
-  - [Exercises](#exercises)
-    - [Exercises:Level 1](#exerciseslevel-1)
-    - [Exercises:Level 2](#exerciseslevel-2)
-    - [Exercises:Level 3](#exerciseslevel-3)
+    - [Bo'sh Map yaratish](#bosh-map-yaratish)
+    - [Massivdan Map yaratish](#massivdan-map-yaratish)
+    - [Mapga qiymatlar qo'shish](#mapga-qiymatlar-qoshish)
+    - [Mapdan qiymat olish](#mapdan-qiymat-olish)
+    - [Mapdagi kalitni tekshirish](#mapdagi-kalitni-tekshirish)
+  - [Mashqlar](#mashqlar)
+    - [Mashqlar:Level 1](#mashqlarlevel-1)
+    - [Mashqlar:Level 2](#mashqlarlevel-2)
+    - [Mashqlar:Level 3](#mashqlarlevel-3)
 
-# Day 10
+# 10-Kun
 
 ## Set
 
-Set is  a collection of elements. Set can only contains unique elements.
-Lets see how to create a set
+Set(To'plam) elementlar toʻplamidir. Set faqat noyob elementlarni o'z ichiga olishi mumkin.
+Keling, to'plamni qanday yaratishni ko'rib chiqaylik
 
-### Creating an empty set
+### Bo'sh Set yaratish
 
 ```js
 const companies = new Set()
@@ -58,7 +58,7 @@ console.log(companies)
 {}
 ```
 
-### Creating set from array
+### Massivdan Set yaratish
 
 ```js
 const languages = [
@@ -79,7 +79,7 @@ console.log(setOfLangauges)
 Set(4) {"English", "Finnish", "French", "Spanish"}
 ```
 
-Set is an iterable object and we can iterate through each elements.
+Set - bu iteratsiyalanadigan ob'ekt va biz har bir elementni iteratsiyalashimiz mumkin.
 
 ```js
 const languages = [
@@ -106,19 +106,19 @@ for (const language of setOfLangauges) {
   Spanish
 ```
 
-### Adding an element to a set
+### Setga element qo'shish
 
 ```js
-const companies = new Set() // creating an empty set
+const companies = new Set() // bo'sh to'plam 
 console.log(companies.size) // 0
 
-companies.add('Google') // add element to the set
+companies.add('Google') // setga element qo'shish
 companies.add('Facebook')
 companies.add('Amazon')
 companies.add('Oracle')
 companies.add('Microsoft')
 
-console.log(companies.size) // 5 elements in the set
+console.log(companies.size) // setda 5 element
 console.log(companies)
 ```
 
@@ -126,7 +126,7 @@ console.log(companies)
 Set(5) {"Google", "Facebook", "Amazon", "Oracle", "Microsoft"}
 ```
 
-We can also use loop to add element to a set.
+To'plamga element qo'shish uchun tsikldan ham foydalanishimiz mumkin.
 
 ```js
 const companies = ['Google', 'Facebook', 'Amazon', 'Oracle', 'Microsoft']
@@ -141,27 +141,27 @@ Set(5) {"Google", "Facebook", "Amazon", "Oracle", "Microsoft"}
 
 ```
 
-### Deleting an element a set
+### Set elementini o'chirish
 
-We can delete an element from a set using a delete method.
+Biz delete usuli yordamida to'plamdan elementni o'chirib tashlashimiz mumkin.
 
 ```js
 console.log(companies.delete('Google'))
-console.log(companies.size) // 4 elements left in the set
+console.log(companies.size) // setda 4 element qoldi
 ```
 
-### Checking an element in the set
+### Setdagi elementni tekshirish
 
-The has method can help to know if a certain element exists in a set.
+Has usuli ma'lum bir element to'plamda mavjudligini bilishga yordam beradi.
 
 ```js
 console.log(companies.has('Apple')) // false
 console.log(companies.has('Facebook')) // true
 ```
 
-### Clearing the set
+### Setni tozalash
 
-It removes all the elements from a set.
+U to'plamdan barcha elementlarni olib tashlaydi.
 
 ```js
 companies.clear()
@@ -174,7 +174,7 @@ console.log(companies)
 
 ```
 
-See the example below to learn how to use set.
+To'plamdan qanday foydalanishni o'rganish uchun quyidagi misolga qarang.
 
 ```js
 const languages = [
@@ -210,7 +210,7 @@ console.log(counts)
 ]
 ```
 
-Other use case of set. For instance to count unique item in an array.
+To'plamdan foydalanishning boshqa holatlari. Masalan, massivdagi noyob elementni hisoblash uchun.
 
 ```js
 const numbers = [5, 3, 2, 5, 5, 9, 4, 5]
@@ -223,9 +223,9 @@ console.log(setOfNumbers)
 Set(5) {5, 3, 2, 9, 4}
 ```
 
-### Union of sets
+### Setlarni birlashtirish
 
-To find a union to two sets can be achieved using spread operator. Lets find the union of set A and set B (A U B)
+Ikki to'plamga birlashmani topish uchun tarqalish operatori yordamida erishish mumkin. A to'plam va B to'plamning birlashuvini topamiz (AUB)
 
 ```js
 let a = [1, 2, 3, 4, 5]
@@ -243,9 +243,9 @@ console.log(C)
 Set(6) {1, 2, 3, 4, 5,6}
 ```
 
-### Intersection of sets
+### Setlarning kesisishi
 
-To find an intersection of two sets can be achieved using filter. Lets find the intersection of set A and set B (A ∩ B)
+Ikki to'plamning kesishishini topish uchun filtr yordamida erishish mumkin. A to‘plam va B to‘plamning kesishuvini topamiz (A ∩ B)
 
 ```js
 let a = [1, 2, 3, 4, 5]
@@ -264,9 +264,9 @@ console.log(C)
 Set(3) {3, 4, 5}
 ```
 
-### Difference of sets
+### Setlarning farqi
 
-To find an the difference between two sets can be achieved using filter. Lets find the different of set A and set B (A \ B)
+Ikki to'plam orasidagi farqni topish uchun filtr yordamida erishish mumkin. A to'plam va B to'plamning farqini topamiz (A \ B)
 
 ```js
 let a = [1, 2, 3, 4, 5]
@@ -287,7 +287,7 @@ Set(2) {1, 2}
 
 ## Map
 
-### Creating an empty Map
+### Bo'sh Map yaratish
 
 ```js
 const map = new Map()
@@ -298,7 +298,7 @@ console.log(map)
 Map(0) {}
 ```
 
-### Creating an Map from array
+### Massivdan Map yaratish
 
 ```js
 countries = [
@@ -316,7 +316,7 @@ Map(3) {"Finland" => "Helsinki", "Sweden" => "Stockholm", "Norway" => "Oslo"}
 3
 ```
 
-### Adding values to the Map
+### Mapga qiymatlar qo'shish
 
 ```js
 const countriesMap = new Map()
@@ -333,7 +333,7 @@ Map(3) {"Finland" => "Helsinki", "Sweden" => "Stockholm", "Norway" => "Oslo"}
 3
 ```
 
-### Getting a value from Map
+### Mapdan qiymat olish
 
 ```js
 console.log(countriesMap.get('Finland'))
@@ -343,9 +343,9 @@ console.log(countriesMap.get('Finland'))
 Helsinki
 ```
 
-### Checking key in Map
+### Mapdagi kalitni tekshirish
 
-Check if a key exist in a map using _has_ method. It returns _true_ or _false_.
+Has usuli yordamida xaritada kalit mavjudligini tekshiring . Bu _true_ yoki _false_ qaytaradi .
 
 ```js
 console.log(countriesMap.has('Finland'))
@@ -355,7 +355,7 @@ console.log(countriesMap.has('Finland'))
 true
 ```
 
-Getting all values from map using loop
+Loop yordamida xaritadan barcha qiymatlarni olish
 
 ```js
 for (const country of countriesMap) {
@@ -381,11 +381,11 @@ Sweden Stockholm
 Norway Oslo
 ```
 
-🌕 You established a big milestone, you are unstoppable. Keep going! You have just completed day 10 challenges and you are 10 steps a head in to your way to greatness. Now do some exercises for your brain and for your muscle.
+🌕 Siz katta marraga erishdingiz, sizni to'xtatib bo'lmaydi. Davom eting! Siz hozirgina 10 kunlik sinovlarni yakunladingiz va siz buyuklik sari 10 qadam oldindasiz. Endi miyangiz va mushaklaringiz uchun bir nechta mashqlarni bajaring.
 
-## Exercises
+## Mashqlar
 
-### Exercises:Level 1
+### Mashqlar:Level 1
 
 ```js
 const a = [4, 5, 8, 9]
@@ -393,27 +393,27 @@ const b = [3, 4, 5, 7]
 const countries = ['Finland', 'Sweden', 'Norway']
 ```
 
-1. create an empty set
-2. Create a set containing 0 to 10 using loop
-3. Remove an element from a set
-4. Clear a set
-5. Create a set of 5 string elements from array
-6. Create a map of countries and number of characters of a country
+1. bo'sh to'plam yarating
+2. Loop yordamida 0 dan 10 gacha bo'lgan to'plam yarating
+3. To'plamdan elementni olib tashlang
+4. To'plamni tozalash
+5. Massivdan 5 ta satr elementlari toʻplamini yarating
+6. Mamlakatlar xaritasini va mamlakat belgilarini yarating
 
-### Exercises:Level 2
+### Mashqlar:Level 2
 
-1. Find a union b
-2. Find a intersection b
-3. Find a with b
+1. Birlashmani toping b
+2. Kesishmani toping b
+3. b bilan a toping
 
-### Exercises:Level 3
+### Mashqlar:Level 3
 
-1. How many languages are there in the countries object file.
+1. Mamlakatlar obyekt faylida nechta til mavjud.
 
-1. \*\*\* Use the countries data to find the 10 most spoken languages:
+1. \*\*\* Eng koʻp gapiriladigan 10 ta tilni topish uchun mamlakatlar maʼlumotlaridan foydalaning:
 
 ```js
-   // Your output should look like this
+   // Sizning natijangiz shunga o'xshash bo'lishi kerak
    console.log(mostSpokenLanguages(countries, 10))
    [
      { English: 91 },
@@ -429,7 +429,7 @@ const countries = ['Finland', 'Sweden', 'Norway']
      { Serbian: 4 }
    ]
 
-  // Your output should look like this
+  // Sizning natijangiz shunga o'xshash bo'lishi kerak
   console.log(mostSpokenLanguages(countries, 3))
   [
   {English:91},
@@ -439,7 +439,7 @@ const countries = ['Finland', 'Sweden', 'Norway']
 ```
 
 
-🎉 CONGRATULATIONS ! 🎉
+🎉 TABRIKLAYMAN ! 🎉
 
 
-[<< Day 9](../09_Day_Higher_order_functions/09_day_higher_order_functions.md) | [Day 11 >>](../11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md)
+[<< 9-kun](../09_Day_Higher_order_functions/09_day_higher_order_functions.md) | [11-kun >>](../11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md)
