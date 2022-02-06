@@ -17,7 +17,7 @@
 
 ![Thirty Days Of JavaScript](../images/banners/day_1_12.png)
 
-- [📘 13-Kun](#-13-kun)
+- [📘 12-Kun](#-12-kun)
   - [Muntazam Ifodalar](#muntazam-ifodalar)
     - [RegExp parametrlari](#regexp-parametrlari)
       - [Pattern](#pattern)
@@ -42,7 +42,7 @@
     - [Mashqlar: Level 2](#mashqlar-level-2)
     - [Mashqlar: Level 3](#mashqlar-level-3)
 
-# 📘 13-Kun
+# 📘 12-Kun
 
 ## Muntazam Ifodalar
 
