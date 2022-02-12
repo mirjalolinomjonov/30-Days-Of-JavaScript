@@ -1,4 +1,4 @@
-# 30 kunlik JavaScript
+# JavaScript-ning 30 kuni
 
 | # Kun |                                                                                                        Mavzular                                                                                                         |
 |-------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-  <h1> 30 kunlik JavaScript: Tanishuv</h1>
+  <h1> JavaScript-ning 30 kuni: Tanishuv</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -69,7 +69,7 @@ uz [Uzbek](./README.md)
 
 ![Thirty Days Of JavaScript](./images/day_1_1.png)
 
-- [30 kunlik JavaScript](#30-days-of-javascript)
+- [JavaScript-ning 30 kuni](#30-days-of-javascript)
 - [📔 1-kun](#-1-kun)
   - [Kirish](#kirish)
   - [Talablar](#talablar)
@@ -107,9 +107,9 @@ uz [Uzbek](./README.md)
 
 ## Kirish
 
-30 kunlik JavaScript dasturlash tanlovida ishtirok etishga qaror qilganingiz bilan **tabriklaymiz** . Ushbu tanlovda siz JavaScript dasturchisi bo'lish uchun kerak bo'lgan hamma narsani va umuman dasturlash tushunchasini o'rganasiz. Tanlov yakunida siz 30DaysOfJavaScript dasturlash topshirigʻini bajarish sertifikatiga ega boʻlasiz. Agar sizga yordam kerak bo'lsa yoki boshqalarga yordam berishni xohlasangiz [telegram guruhiga](https://t.me/ThirtyDaysOfJavaScript) qo'shilishingiz mumkin .
+JavaScript-ning 30 kuni dasturlash tanlovida ishtirok etishga qaror qilganingiz bilan **tabriklaymiz** . Ushbu tanlovda siz JavaScript dasturchisi bo'lish uchun kerak bo'lgan hamma narsani va umuman dasturlash tushunchasini o'rganasiz. Tanlov yakunida siz 30DaysOfJavaScript dasturlash topshirigʻini bajarish sertifikatiga ega boʻlasiz. Agar sizga yordam kerak bo'lsa yoki boshqalarga yordam berishni xohlasangiz [telegram guruhiga](https://t.me/ThirtyDaysOfJavaScript) qo'shilishingiz mumkin .
 
-**30 kunlik JavaScript dasturlash tanlovi** yangi boshlanuvchilar va ilg'or JavaScript dasturchilari uchun qo'llanmadir. JavaScript-ga xush kelibsiz. JavaScript - bu internet tili. Menga JavaScript-dan foydalanish va o‘rgatish yoqadi va siz ham shunday qilasiz degan umiddaman.
+**JavaScript-ning 30 kuni dasturlash tanlovi** yangi boshlanuvchilar va ilg'or JavaScript dasturchilari uchun qo'llanmadir. JavaScript-ga xush kelibsiz. JavaScript - bu internet tili. Menga JavaScript-dan foydalanish va o‘rgatish yoqadi va siz ham shunday qilasiz degan umiddaman.
 
 Ushbu bosqichma-bosqich JavaScript sinovida siz insoniyat tarixidagi eng mashhur dasturlash tili bo'lgan JavaScript-ni o'rganasiz. JavaScript **_veb-saytlarga interaktivlikni qo'shish, mobil ilovalar, ish stoli ilovalari, o'yinlar ishlab chiqish uchun ishlatiladi va hozirda JavaScript mashinani o'rganish_** va **_AI_** uchun ishlatilishi mumkin . **_JavaScript (JS)_** so'nggi yillarda mashhurligi oshdi va ketma-ket olti yil davomida etakchi dasturlash tili bo'lib kelmoqda va Github'da eng ko'p ishlatiladigan dasturlash tilidir.
 
@@ -273,7 +273,7 @@ console.log(3 ** 2) // Darajaga ko'tarish 3 ** 2 == 3 * 3
 
 ### Kod muharrirlari
 
-Kodlarimizni brauzer konsolida yozishimiz mumkin, lekin bu kattaroq loyihalar uchun ishlamaydi. Haqiqiy ish muhitida ishlab chiquvchilar o'z kodlarini yozish uchun turli xil kod muharrirlaridan foydalanadilar. Ushbu 30 kunlik JavaScript sinovida biz Visual Studio kodidan foydalanamiz.
+Kodlarimizni brauzer konsolida yozishimiz mumkin, lekin bu kattaroq loyihalar uchun ishlamaydi. Haqiqiy ish muhitida ishlab chiquvchilar o'z kodlarini yozish uchun turli xil kod muharrirlaridan foydalanadilar. Ushbu JavaScript-ning 30 kuni sinovida biz Visual Studio kodidan foydalanamiz.
 
 #### Visual Studio kodini o'rnatish
 

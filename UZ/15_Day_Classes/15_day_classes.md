@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 kunlik JavaScript: Klasslar</h1>
+  <h1> JavaScript-ning 30 kuni: Klasslar</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -713,6 +713,6 @@ Frequency Distribution: [(20.0, 26), (16.0, 27), (12.0, 32), (8.0, 37), (8.0, 34
 
 1. Create a class called PersonAccount. It has firstname, lastname, incomes, expenses properties and it has totalIncome, totalExpense, accountInfo,addIncome, addExpense and accountBalance methods. Incomes is a set of incomes and its description and expenses is also a set of expenses and its description.
 
-🎉 CONGRATULATIONS ! 🎉
+🎉 TABRIKLAYMAN ! 🎉
 
 [<< 14-kun](../14_Day_Error_handling/14_day_error_handling.md) | [16-kun>>](../16_Day_JSON/16_day_json.md)

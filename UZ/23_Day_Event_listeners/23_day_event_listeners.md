@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 kunlik JavaScript: Event Listeners (Hodisa tinglovchilari)</h1>
+  <h1> JavaScript-ning 30 kuni: Event Listeners (Hodisa tinglovchilari)</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -30,7 +30,7 @@
       - [blur event](#blur-event)
       - [keypress, keydow and keyup](#keypress-keydow-and-keyup)
   - [Mashqlar](#mashqlar)
-    - [Exercise: Level 1](#exercise-level-1)
+    - [Mashq: Level 1](#mashq-level-1)
 
 # 24-Kun
 

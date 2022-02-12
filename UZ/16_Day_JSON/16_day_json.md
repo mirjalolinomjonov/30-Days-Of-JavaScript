@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 kunlik JavaScript: JSON</h1>
+  <h1> JavaScript-ning 30 kuni: JSON</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>

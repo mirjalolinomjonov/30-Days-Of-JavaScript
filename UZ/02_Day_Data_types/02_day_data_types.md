@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 kunlik JavaScript: Ma'lumot turlari</h1>
+  <h1> JavaScript-ning 30 kuni: Ma'lumot turlari</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -347,7 +347,7 @@ JavaScript va boshqa dasturlash tillarida \ va undan keyin ba'zi belgilar qochib
 - \": Qo'sh tirnoq (")
   
 ```js
-console.log('Umid qilamanki, barchaga 30 kunlik JavaScript tanlovi yoqadi.\nSizgachi ?') // qator uzilishi(yangi qatorga o'tish)
+console.log('Umid qilamanki, barchaga JavaScript-ning 30 kuni tanlovi yoqadi.\nSizgachi ?') // qator uzilishi(yangi qatorga o'tish)
 console.log('Kunlar\tMavzular\tMashqlar')
 console.log('Kun 1\t3\t5')
 console.log('Kun 2\t3\t5')
@@ -362,7 +362,7 @@ console.log('The saying \'Seeing is Believing\' isn\'t correct in 2022')
 Konsolda chiqish:
 
 ```sh
-Umid qilamanki, barchaga 30 kunlik JavaScript tanlovi yoqadi.
+Umid qilamanki, barchaga JavaScript-ning 30 kuni tanlovi yoqadi.
 Sizgachi ?
 Kunlar	Mavzular	Mashqlar
 Kun 1 3 5
@@ -922,7 +922,7 @@ console.log(numInt) // 9
 22. 30 Days Of JavaScript qatori bilan __endsWith()__  usulidan foydalaning va natijani haqiqatga aylantiring
 23. JavaScript-ning 30 kunidagi barcha __a__ larni topish uchun __match()__ usulidan foydalaning
 24. __concat()__ dan foydalaning va "30 Days of" va "JavaScript" ni bitta "30 Days Of JavaScript" qatoriga birlashtiring.
-25. 30 kunlik JavaScript-ni 2 marta chop etish uchun __repeat()__ usulidan foydalaning
+25. JavaScript-ning 30 kuni-ni 2 marta chop etish uchun __repeat()__ usulidan foydalaning
 
 ### Mashq: 2-daraja
 
