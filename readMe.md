@@ -1,7 +1,7 @@
 # 30 Days Of JavaScript
 
 | # Day |                                                                       Topics                                                                        |
-| ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ----- |:---------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 01    |                                                             [Introduction](./readMe.md)                                                             |
 | 02    |                                               [Data Types](./02_Day_Data_types/02_day_data_types.md)                                                |
 | 03    |                             [Booleans, Operators, Date](./03_Day_Booleans_operators_date/03_booleans_operators_date.md)                             |
@@ -57,7 +57,6 @@
   <div>
 
 🇬🇧 [English](./readMe.md)
-🇪🇸 [Spanish](./Spanish/readme.md)
 🇷🇺 [Russian](./RU/README.md)
 uz [Uzbek](./UZ/README.md)
 

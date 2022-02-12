@@ -56,9 +56,8 @@
 
   <div>
 
-🇬🇧 [English](./readMe.md)
-🇪🇸 [Spanish](./Spanish/readme.md)
-🇷🇺 [Russian](./RU/README.md)
+🇬🇧 [English](../readMe.md)
+🇷🇺 [Russian](../RU/README.md)
 uz [Uzbek](./README.md)
 
   </div>
@@ -69,7 +68,7 @@ uz [Uzbek](./README.md)
 
 ![Thirty Days Of JavaScript](./images/day_1_1.png)
 
-- [JavaScript-ning 30 kuni](#30-days-of-javascript)
+- [JavaScript-ning 30 kuni](#javascript-ning-30-kuni)
 - [📔 1-kun](#-1-kun)
   - [Kirish](#kirish)
   - [Talablar](#talablar)

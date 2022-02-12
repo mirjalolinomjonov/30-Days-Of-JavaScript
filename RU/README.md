@@ -15,7 +15,6 @@
   <div>
 
   🇬🇧 [English](../readMe.md)
-  🇪🇸 [Spanish](../Spanish/readme.md)
   🇷🇺 [Russian](./README.md)
 
   </div>
