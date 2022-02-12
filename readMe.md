@@ -3,41 +3,41 @@
 | # Day |                                                                       Topics                                                                        |
 | ----- |:---------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 01    |                                                             [Introduction](./readMe.md)                                                             |
-| 02    |                                               [Data Types](./02_Day_Data_types/02_day_data_types.md)                                                |
-| 03    |                             [Booleans, Operators, Date](./03_Day_Booleans_operators_date/03_booleans_operators_date.md)                             |
-| 04    |                                            [Conditionals](./04_Day_Conditionals/04_day_conditionals.md)                                             |
-| 05    |                                                     [Arrays](./05_Day_Arrays/05_day_arrays.md)                                                      |
-| 06    |                                                       [Loops](./06_Day_Loops/06_day_loops.md)                                                       |
-| 07    |                                                 [Functions](./07_Day_Functions/07_day_functions.md)                                                 |
-| 08    |                                                    [Objects](./08_Day_Objects/08_day_objects.md)                                                    |
-| 09    |                             [Higher Order Functions](./09_Day_Higher_order_functions/09_day_higher_order_functions.md)                              |
-| 10    |                                           [Sets and Maps](./10_Day_Sets_and_Maps/10_day_Sets_and_Maps.md)                                           |
-| 11    |                      [Destructuring and Spreading](./11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md)                      |
-| 12    |                                  [Regular Expressions](./12_Day_Regular_expressions/12_day_regular_expressions.md)                                  |
-| 13    |                             [Console Object Methods](./13_Day_Console_object_methods/13_day_console_object_methods.md)                              |
-| 14    |                                         [Error Handling](./14_Day_Error_handling/14_day_error_handling.md)                                          |
-| 15    |                                                    [Classes](./15_Day_Classes/15_day_classes.md)                                                    |
-| 16    |                                                        [JSON](./16_Day_JSON/16_day_json.md)                                                         |
-| 17    |                                            [Web Storages](./17_Day_Web_storages/17_day_web_storages.md)                                             |
-| 18    |                                                  [Promises](./18_Day_Promises/18_day_promises.md)                                                   |
-| 19    |                                                   [Closure](./19_Day_Closures/19_day_closures.md)                                                   |
-| 20    |                                  [Writing Clean Code](./20_Day_Writing_clean_codes/20_day_writing_clean_codes.md)                                   |
-| 21    |                                                          [DOM](./21_Day_DOM/21_day_dom.md)                                                          |
-| 22    |                            [Manipulating DOM Object](./22_Day_Manipulating_DOM_object/22_day_manipulating_DOM_object.md)                            |
-| 23    |                                        [Event Listeners](./23_Day_Event_listeners/23_day_event_listeners.md)                                        |
-| 24    |                             [Mini Project: Solar System](./24_Day_Project_solar_system/24_day_project_solar_system.md)                              |
-| 25    | [Mini Project: World Countries Data Visulalization 1](./25_Day_World_countries_data_visualization_1/25_day_world_countries_data_visualization_1.md) |
-| 26    | [Mini Project: World Countries Data Visulalization 2](./26_Day_World_countries_data_visualization_2/26_day_world_countries_data_visualization_2.md) |
-| 27    |                             [Mini Project: Portfolio](./27_Day_Mini_project_portfolio/27_day_mini_project_portfolio.md)                             |
-| 28    |                          [Mini Project: Leaderboard](./28_Day_Mini_project_leaderboard/28_day_mini_project_leaderboard.md)                          |
-| 29    |             [Mini Project:Animating characters](./29_Day_Mini_project_animating_characters/29_day_mini_project_animating_characters.md)             |
-| 30    |                                     [Final Projects](./30_Day_Mini_project_final/30_day_mini_project_final.md)                                      |
+| 02    |                                               [Data Types](EN/02_Day_Data_types/02_day_data_types.md)                                                |
+| 03    |                             [Booleans, Operators, Date](EN/03_Day_Booleans_operators_date/03_booleans_operators_date.md)                             |
+| 04    |                                            [Conditionals](EN/04_Day_Conditionals/04_day_conditionals.md)                                             |
+| 05    |                                                     [Arrays](EN/05_Day_Arrays/05_day_arrays.md)                                                      |
+| 06    |                                                       [Loops](EN/06_Day_Loops/06_day_loops.md)                                                       |
+| 07    |                                                 [Functions](EN/07_Day_Functions/07_day_functions.md)                                                 |
+| 08    |                                                    [Objects](EN/08_Day_Objects/08_day_objects.md)                                                    |
+| 09    |                             [Higher Order Functions](EN/09_Day_Higher_order_functions/09_day_higher_order_functions.md)                              |
+| 10    |                                           [Sets and Maps](EN/10_Day_Sets_and_Maps/10_day_Sets_and_Maps.md)                                           |
+| 11    |                      [Destructuring and Spreading](EN/11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md)                      |
+| 12    |                                  [Regular Expressions](EN/12_Day_Regular_expressions/12_day_regular_expressions.md)                                  |
+| 13    |                             [Console Object Methods](EN/13_Day_Console_object_methods/13_day_console_object_methods.md)                              |
+| 14    |                                         [Error Handling](EN/14_Day_Error_handling/14_day_error_handling.md)                                          |
+| 15    |                                                    [Classes](EN/15_Day_Classes/15_day_classes.md)                                                    |
+| 16    |                                                        [JSON](EN/16_Day_JSON/16_day_json.md)                                                         |
+| 17    |                                            [Web Storages](EN/17_Day_Web_storages/17_day_web_storages.md)                                             |
+| 18    |                                                  [Promises](EN/18_Day_Promises/18_day_promises.md)                                                   |
+| 19    |                                                   [Closure](EN/19_Day_Closures/19_day_closures.md)                                                   |
+| 20    |                                  [Writing Clean Code](EN/20_Day_Writing_clean_codes/20_day_writing_clean_codes.md)                                   |
+| 21    |                                                          [DOM](EN/21_Day_DOM/21_day_dom.md)                                                          |
+| 22    |                            [Manipulating DOM Object](EN/22_Day_Manipulating_DOM_object/22_day_manipulating_DOM_object.md)                            |
+| 23    |                                        [Event Listeners](EN/23_Day_Event_listeners/23_day_event_listeners.md)                                        |
+| 24    |                             [Mini Project: Solar System](EN/24_Day_Project_solar_system/24_day_project_solar_system.md)                              |
+| 25    | [Mini Project: World Countries Data Visulalization 1](EN/25_Day_World_countries_data_visualization_1/25_day_world_countries_data_visualization_1.md) |
+| 26    | [Mini Project: World Countries Data Visulalization 2](EN/26_Day_World_countries_data_visualization_2/26_day_world_countries_data_visualization_2.md) |
+| 27    |                             [Mini Project: Portfolio](EN/27_Day_Mini_project_portfolio/27_day_mini_project_portfolio.md)                             |
+| 28    |                          [Mini Project: Leaderboard](EN/28_Day_Mini_project_leaderboard/28_day_mini_project_leaderboard.md)                          |
+| 29    |             [Mini Project:Animating characters](EN/29_Day_Mini_project_animating_characters/29_day_mini_project_animating_characters.md)             |
+| 30    |                                     [Final Projects](EN/30_Day_Mini_project_final/30_day_mini_project_final.md)                                      |
 
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
 
 <div>
 <small>Support the <strong>author</strong> to create more educational materials</small> <br />  
-<a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
+<a href = "https://www.paypal.me/asabeneh"><img src='EN/images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
 </div>
 
 <div align="center">
@@ -64,9 +64,9 @@ uz [Uzbek](./UZ/README.md)
 
 </div>
 
-[Day 2 >>](./02_Day_Data_types/02_day_data_types.md)
+[Day 2 >>](EN/02_Day_Data_types/02_day_data_types.md)
 
-![Thirty Days Of JavaScript](./images/day_1_1.png)
+![Thirty Days Of JavaScript](EN/images/day_1_1.png)
 
 - [30 Days Of JavaScript](#30-days-of-javascript)
 - [📔 Day 1](#-day-1)
@@ -134,11 +134,11 @@ I believe you have the motivation and a strong desire to be a developer, a compu
 
 You may not need Node.js right now but you may need it for later. Install [node.js](https://nodejs.org/en/).
 
-![Node download](images/download_node.png)
+![Node download](EN/images/download_node.png)
 
 After downloading double click and install
 
-![Install node](images/install_node.png)
+![Install node](EN/images/install_node.png)
 
 We can check if node is installed on our local machine by opening our device terminal or command prompt.
 
@@ -157,13 +157,13 @@ There are many browsers out there. However, I strongly recommend Google Chrome.
 
 Install [Google Chrome](https://www.google.com/chrome/) if you do not have one yet. We can write small JavaScript code on the browser console, but we do not use the browser console to develop applications.
 
-![Google Chrome](images/google_chrome.png)
+![Google Chrome](EN/images/google_chrome.png)
 
 #### Opening Google Chrome Console
 
 You can open Google Chrome console either by clicking three dots at the top right corner of the browser, selecting _More tools -> Developer tools_ or using a keyboard shortcut. I prefer using shortcuts.
 
-![Opening chrome](images/opening_developer_tool.png)
+![Opening chrome](EN/images/opening_developer_tool.png)
 
 To open the Chrome console using a keyboard shortcut.
 
@@ -175,12 +175,12 @@ Windows/Linux:
 Ctl+Shift+J
 ```
 
-![Opening console](images/opening_chrome_console_shortcut.png)
+![Opening console](EN/images/opening_chrome_console_shortcut.png)
 
 After you open the Google Chrome console, try to explore the marked buttons. We will spend most of the time on the Console. The Console is the place where your JavaScript code goes. The Google Console V8 engine changes your JavaScript code to machine code.
 Let us write a JavaScript code on the Google Chrome console:
 
-![write code on console](./images/js_code_on_chrome_console.png)
+![write code on console](EN/images/js_code_on_chrome_console.png)
 
 #### Writing Code on Browser Console
 
@@ -206,7 +206,7 @@ console.log('Hello, World!')
 
 The **console.log()** function can take multiple parameters separated by commas. The syntax looks like as follows:**console.log(param1, param2, param3)**
 
-![console log multiple arguments](./images/console_log_multipl_arguments.png)
+![console log multiple arguments](EN/images/console_log_multipl_arguments.png)
 
 ```js
 console.log('Hello', 'World', '!')
@@ -240,7 +240,7 @@ This is a multiline comment
 
 Programming languages are similar to human languages. English or many other language uses words, phrases, sentences,compound sentences and other more to convey a meaningful message. The English meaning of syntax is _the arrangement of words and phrases to create well-formed sentences in a language_. The technical definition of syntax is the structure of statements in a computer language.Programming languages have syntax. JavaScript is a programming language and like other programming languages it has its own syntax. If we do not write a syntax that JavaScript understands, it will raise different types of errors. We will explore different kinds of JavaScript errors later. For now, let us see syntax errors.
 
-![Error](images/raising_syntax_error.png)
+![Error](EN/images/raising_syntax_error.png)
 
 I made a deliberate mistake. As a result, the console raises syntax errors. Actually, the syntax is very informative. It informs what type of mistake was made. By reading the error feedback guideline, we can correct the syntax and fix the problem. The process of identifying and removing errors from a program is called debugging. Let us fix the errors:
 
@@ -264,7 +264,7 @@ Now, let us practice more writing JavaScript codes using _console.log()_ on goog
 In addition to the text, we can also do mathematical calculations using JavaScript. Let us do the following simple calculations.
 The console can directly take arguments without the **_console.log()_** function. However, it is included in this introduction because most of this challenge would be taking place in a text editor where the usage of the function would be mandatory. You can play around directly with instructions on the console.
 
-![Arithmetic](images/arithmetic.png)
+![Arithmetic](EN/images/arithmetic.png)
 
 ```js
 console.log(2 + 3) // Addition
@@ -283,7 +283,7 @@ We can write our codes on the browser console, but it won't do for bigger projec
 
 Visual studio code is a very popular open-source text editor. I would recommend to [download Visual Studio Code](https://code.visualstudio.com/), but if you are in favor of other editors, feel free to follow with what you have.
 
-![Vscode](images/vscode.png)
+![Vscode](EN/images/vscode.png)
 
 If you installed Visual Studio Code, let us start using it.
 
@@ -291,19 +291,19 @@ If you installed Visual Studio Code, let us start using it.
 
 Open the Visual Studio Code by double-clicking its icon. When you open it, you will get this kind of interface. Try to interact with the labeled icons.
 
-![Vscode ui](./images/vscode_ui.png)
+![Vscode ui](EN/images/vscode_ui.png)
 
-![Vscode add project](./images/adding_project_to_vscode.png)
+![Vscode add project](EN/images/adding_project_to_vscode.png)
 
-![Vscode open project](./images/opening_project_on_vscode.png)
+![Vscode open project](EN/images/opening_project_on_vscode.png)
 
-![script file](images/scripts_on_vscode.png)
+![script file](EN/images/scripts_on_vscode.png)
 
-![Installing Live Server](images/vsc_live_server.png)
+![Installing Live Server](EN/images/vsc_live_server.png)
 
-![running script](./images/running_script.png)
+![running script](EN/images/running_script.png)
 
-![coding running](./images/launched_on_new_tab.png)
+![coding running](EN/images/launched_on_new_tab.png)
 
 ## Adding JavaScript to a Web Page
 
@@ -371,7 +371,7 @@ This is how we write an internal script most of the time. Writing the JavaScript
 
 Open the browser console to see the output from the console.log()
 
-![js code from vscode](./images/js_code_vscode.png)
+![js code from vscode](EN/images/js_code_vscode.png)
 
 ### External Script
 
@@ -437,7 +437,7 @@ console.log('Hello, World!')
 
 _Your main.js file should be below all other scripts_. It is very important to remember this.
 
-![Multiple Script](./images/multiple_script.png)
+![Multiple Script](EN/images/multiple_script.png)
 
 ## Introduction to Data types
 
@@ -634,7 +634,7 @@ Asabeneh teacher Finland
 
 When you run _index.html_ file in the 01-Day folder you should get this:
 
-![Day one](./images/day_1.png)
+![Day one](EN/images/day_1.png)
 
 🌕 You are amazing! You have just completed day 1 challenge and you are on your way to greatness. Now do some exercises for your brain and muscle.
 
@@ -660,4 +660,4 @@ You are 30 years old.
 
 🎉 CONGRATULATIONS ! 🎉
 
-[Day 2 >>](./02_Day_Data_types/02_day_data_types.md)
+[Day 2 >>](EN/02_Day_Data_types/02_day_data_types.md)
