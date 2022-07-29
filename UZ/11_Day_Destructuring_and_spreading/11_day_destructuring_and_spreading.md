@@ -371,7 +371,7 @@ Assess Test Result 4/1/2022 1:00 false
 
 ### Spread va Rest Operatorlari
 
-Massivni yo'q qilganda, qolgan elementlarni massiv sifatida olish uchun tarqalish operatoridan (...) foydalanamiz. Bunga qo'shimcha ravishda biz arr elementlarini boshqa massivga yoyish uchun tarqalish operatoridan foydalanamiz.
+Massivni yo'q qilganda, qolgan elementlarni massiv sifatida olish uchun spread operatoridan (...) foydalanamiz. Bunga qo'shimcha ravishda biz array elementlarini boshqa massivga yoyish uchun spread operatoridan foydalanamiz.
 
 ### Massivning qolgan elementlarini olish uchun Spread operatori
 
